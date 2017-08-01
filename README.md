@@ -28,7 +28,7 @@ Project includes vscode task to build, Build task default keyboard shortcut.
 This will watch typescript files and compile on change
 
 
-### Run
+## Run
 
 Start with npm script (also runs `tsc` before start)
 
