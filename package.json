@@ -1,0 +1,21 @@
+{
+    "name": "electron-typescript-template",
+    "version": "1.0.0",
+    "description": "template for an electron application using typescript",
+    "main": "build/program.js",
+    "scripts": {
+        "prestart": "tsc",
+        "start": "electron ."
+    },
+    "keywords": [
+        "electron",
+        "typescript"
+    ],
+    "author": "James Frowen",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^1.6.11",
+        "typescript": "^2.4.2"
+    },
+    "devDependencies": {}
+}
