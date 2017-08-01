@@ -14,6 +14,7 @@
     "author": "James Frowen",
     "license": "ISC",
     "dependencies": {
+        "@types/node": "^8.0.17",
         "electron": "^1.6.11",
         "typescript": "^2.4.2"
     },
