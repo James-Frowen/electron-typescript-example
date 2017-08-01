@@ -7,7 +7,7 @@ Template for an Electron application using typescript.
 
 Clone repo
 
-`git clone ...`
+`git clone https://github.com/James-Frowen/electron-typescript-template.git`
 
 Install dependencies
 
