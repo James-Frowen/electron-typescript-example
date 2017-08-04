@@ -1,5 +1,5 @@
 {
-    "name": "electron-typescript-template",
+    "name": "electron-typescript-example",
     "version": "1.0.0",
     "description": "template for an electron application using typescript",
     "main": "build/program.js",
